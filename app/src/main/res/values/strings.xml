@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VisitorApp</string>
+    <string name="company_name">Company Name</string>
+    <string name="your_name">Name</string>
+    <string name="desgn">Designation</string>
+    <string name="loc">Location</string>
+    <string name="email_id">Official Email Id</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="solution_required">Solutions Interested in or Requirement</string>
+    <string name="time_to_connect">Good time to connect</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="developed">Developed By BCIL</string>
+    <string name="version">Version: 1.0.0 | Build Id: 1</string>
+</resources>
